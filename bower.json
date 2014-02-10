@@ -1,5 +1,5 @@
 {
-  "name": "qrcode-generator",
+  "name": "qrcode-generator-commonjs",
   "version": "0.0.0",
   "main": "js/qrcode.js",
   "ignore": [
